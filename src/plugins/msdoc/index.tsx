@@ -8,7 +8,7 @@ const MSDocRenderer: DocRenderer = ({ mainState: { currentDocument } }) => {
   return (
     <Container id="msdoc-renderer">
       <IFrame
-       sandbox="allow-scripts"
+        sandbox=""
         id="msdoc-iframe"
         title="msdoc-iframe"
         src={`https://view.officeapps.live.com/op/embed.aspx?src=${encodeURIComponent(
