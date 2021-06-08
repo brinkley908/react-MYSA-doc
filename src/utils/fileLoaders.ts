@@ -18,7 +18,7 @@ const _fileLoader: BaseFileLoaderFunction = ({
   fileLoaderComplete,
   readerTypeFunction,
 }) => {
-  return fetch(documentURI, { signal, mode: 'no-cors' })
+  return fetch(documentURI, { signal, mode: 'no-cors', headers: {"Access-Control-Allow-Origin": "*", "Access-Control-Allow-Headers": "X-Requested-With"} })
     .then(async (res) => {
       const blob = await res.blob();
 
