@@ -1,11 +1,11 @@
 {
- "name": "react-doc-viewer",
- "version": "0.1.5",
+ "name": "@brinkley908/react-MYSA-doc",
+ "version": "1.0.0",
  "description": "Document viewer for react. Renders online/local documents.",
  "author": "Matthew Mogford",
  "license": "ISC",
  "repository": {
-  "url": "https://github.com/Alcumus/react-doc-viewer"
+  "url": "https://github.com/brinkley908/react-MYSA-doc"
  },
  "main": "build/index.js",
  "types": "build/index.d.ts",
