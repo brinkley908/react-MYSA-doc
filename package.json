@@ -1,6 +1,6 @@
 {
  "name": "@brinkley908/react-MYSA-doc",
- "version": "1.0.0",
+ "version": "1.0.1",
  "description": "Document viewer for react. Renders online/local documents.",
  "author": "Matthew Mogford",
  "license": "ISC",
@@ -35,7 +35,7 @@
  "scripts": {
   "start": "react-scripts start",
   "build": "rm -rf build && tsc -p tsconfig-npm.json",
-  "test": "react-scripts test",
+  "test": "echo \"No test specified\"",
   "eject": "react-scripts eject",
   "version:patch": "npm run version:pre && npm run version:changelog && npm version patch && npm run version:post",
   "version:minor": "npm run version:pre && npm run version:changelog && npm version minor && npm run version:post",
