@@ -1,6 +1,6 @@
 {
   "name": "@spekta/react-mysa-doc",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Document viewer for react. Renders online/local documents.",
   "author": "Matthew Mogford",
   "license": "ISC",
@@ -63,8 +63,8 @@
     ]
   },
   "publishConfig": {
-	"access": "public"
-},
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/brinkley908/react-MYSA-doc/issues"
   },
