@@ -1,6 +1,6 @@
 {
   "name": "@spekta/react-mysa-doc",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Document viewer for react. Renders online/local documents.",
   "author": "Matthew Mogford",
   "license": "ISC",
