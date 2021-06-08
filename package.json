@@ -3,16 +3,16 @@
   "np": {
     "yarn": false,
     "contents": "dist"
-},
-  "version": "1.0.5",
+  },
+  "version": "1.0.6",
   "description": "Document viewer for react. Renders online/local documents.",
   "author": "Matthew Mogford",
   "license": "ISC",
   "repository": {
     "url": "git+https://github.com/brinkley908/react-MYSA-doc.git"
   },
-  "main": "build/index.js",
-  "types": "build/index.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "dependencies": {
     "pdfjs-dist": "2.4.456",
     "react-pdf": "5.0.0",
