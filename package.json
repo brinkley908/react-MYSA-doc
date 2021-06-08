@@ -62,6 +62,9 @@
       "last 1 safari version"
     ]
   },
+  "publishConfig": {
+	"access": "public"
+},
   "bugs": {
     "url": "https://github.com/brinkley908/react-MYSA-doc/issues"
   },
